@@ -87,15 +87,7 @@ toknc --top 20
 
 ## Supported File Types
 
-The tool automatically detects text files and includes common source code extensions:
-- Python (.py), JavaScript (.js, .jsx), TypeScript (.ts, .tsx)
-- Web files (.html, .css)
-- Config files (.json, .xml, .yaml, .yml)
-- Documentation (.md, .rst)
-- Shell scripts (.sh, .bash, .zsh)
-- C/C++ (.c, .cpp, .h, .hpp)
-- Java (.go, .rs, .php, .rb)
-- And many more...
+Every Type of file
 
 ## Automatically Excluded
 
